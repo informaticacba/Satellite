@@ -1,0 +1,18 @@
+{
+    "name": "satellite",
+    "description": "PHP Web Framework",
+    "type": "framework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "toshusai",
+            "email": "shu.saito.7d@stu.hosei.ac.jp"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Satellite\\": "src/"
+        }
+    }
+}
